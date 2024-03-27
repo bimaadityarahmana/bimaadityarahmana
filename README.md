@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @bimaadityarahmana
-- 👀 I’m interested in Cooding DevC++
-- 🌱 I’m currently learning DevC++
-- 💞️ I’m looking to collaborate on Cooding DevC++
 - 📫 How to reach me 088225621374
 
 <!---
